@@ -1,0 +1,16 @@
+Siapkan sebuah mysql database baru lewat phpmyadmin
+impor tabel users lewat file users.sql
+
+Download 3 file berikut:
+
+class koneksi database:
+db.py
+https://dl.dropbox.com/s/ntnosq3wp4hhxmb/db.py
+
+class tabel users:
+Users.py
+https://dl.dropbox.com/s/fb9mqqbnvpgvdht/Users.py
+
+Backup tabel users:
+users.sql
+https://dl.dropbox.com/s/pwgbxe8ax6k0o5m/users.sql
